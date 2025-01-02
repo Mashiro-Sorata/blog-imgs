@@ -1,2 +1,2 @@
 # blog-imgs
-images for blog
+images bed for blog
